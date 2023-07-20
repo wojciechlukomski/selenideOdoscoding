@@ -1,2 +1,5 @@
 /.idea/compiler.xml
 /.idea/workspace.xml
+/allure-results/
+/build/reports/tests/
+/.idea/
