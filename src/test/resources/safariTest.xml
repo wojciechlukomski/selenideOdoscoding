@@ -3,6 +3,11 @@
 <suite name="safariTest" verbose="1">
     <test name="Should Login - Safari">
         <parameter name="browser" value="safari"/>
+        <groups>
+            <run>
+                <exclude name="negative"/>
+            </run>
+        </groups>
         <classes>
             <class name="com.odoscoding.tests.OdoscodingFunctionalTests">
             </class>

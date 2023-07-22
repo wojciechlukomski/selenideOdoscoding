@@ -3,3 +3,5 @@
 /allure-results/
 /build/reports/tests/
 /.idea/
+
+/target/
